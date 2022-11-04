@@ -27,7 +27,7 @@ export default function Privacy() {
         <h2 id='contacting-us'>Contacting Us</h2>
         <p>
           If you have any questions regarding this privacy policy, you can email
-          to <a href='mailto:hello@tenhourstudios.com'>rng+privacy@pranshugaba.com</a>.
+          to <a href='mailto:rng+privacy@pranshugaba.com'>rng+privacy@pranshugaba.com</a>.
         </p>
       </main>
     </>
