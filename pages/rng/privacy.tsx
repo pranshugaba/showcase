@@ -1,6 +1,11 @@
+import Head from 'next/head';
+
 export default function Privacy() {
   return (
     <>
+      <Head>
+        <title>Privacy Policy | Random Number Generator</title>
+      </Head>
       <main>
         <h1 id='privacy-policy'>Privacy Policy</h1>
         <h2 id='collection-of-personal-information'>
@@ -27,7 +32,11 @@ export default function Privacy() {
         <h2 id='contacting-us'>Contacting Us</h2>
         <p>
           If you have any questions regarding this privacy policy, you can email
-          to <a href='mailto:rng+privacy@pranshugaba.com'>rng+privacy@pranshugaba.com</a>.
+          to{' '}
+          <a href='mailto:pranshu+rng@pranshugaba.com'>
+            pranshu+rng@pranshugaba.com
+          </a>
+          .
         </p>
       </main>
     </>
